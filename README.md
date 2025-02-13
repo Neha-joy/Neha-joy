@@ -36,7 +36,7 @@
 
 💬 Ask me about React, Python, Mysql
 
-📫 How to reach me supravt.com@gmail.com
+📫 How to reach me nehajoy002@gmail.com
 
 📄 Know about my experiences [my experiences](http://supravatm.github.io)
 
