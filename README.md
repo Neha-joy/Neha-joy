@@ -30,11 +30,11 @@
 
 <br><br>
 
-🔭 I’m currently working on Magento 2
+🔭 I’m currently working on Improving Skills
 
-🌱 I’m currently learning Magento 2 cloud
+🌱 I’m currently learning Languages
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+👨‍💻 All of my projects are available at [Neha's works](https://supravatm.github.io/projects)
 
 💬 Ask me about PHP, Magento, LAMP
 
