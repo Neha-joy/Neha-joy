@@ -32,7 +32,7 @@
 
 🌱 I’m currently learning Languages
 
-💬 Ask me about React, Python, Mysql
+💬 Ask me about <b> React, Python, Mysql </b>
 
 📫 How to reach me nehajoy002@gmail.com
 
