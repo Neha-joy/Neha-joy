@@ -50,5 +50,6 @@
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![React](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+[![React](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)](http://img.shields.io/badge/-React-346e9e?style=flat-square&logo=react&logoColor=white
+)
 
