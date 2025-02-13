@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supravat Mondal</h1>
+<h1 align="center">Hi 👋, I'm Neha Joy</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
 
