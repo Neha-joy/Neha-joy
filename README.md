@@ -38,9 +38,7 @@
 
 📫 How to reach me nehajoy002@gmail.com
 
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
 
-⚡️ Fun fact I think I'm funny
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
