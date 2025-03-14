@@ -30,10 +30,14 @@
 
 🌱 I’m currently learning Languages
 
-💬 Ask me about <b> React, Python, Mysql </b>
+💬 Ask me about <b> React, Python, Mysql ,Sqlite3 , Django</b>
 
 📫 How to reach me nehajoy002@gmail.com
 
+
+<br><br>
+
+<b> MY Frontend WOrks You Can Check</b>
 
 
 
