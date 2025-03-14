@@ -39,7 +39,7 @@
 
 <b> MY FRONTEND WORKS YOU CAN CHECK</b>
 
-<p>edutechenology.netlify.app</p>
+<p>https://edutechenology.netlify.app/</p>
 <P>https://jigzaw.netlify.app/</P>
 
 
